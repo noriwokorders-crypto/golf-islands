@@ -806,17 +806,6 @@
          "name":"Collision layer",
          "objects":[
                 {
-                 "height":444,
-                 "id":4,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":63,
-                 "x":-1022,
-                 "y":-1087
-                }, 
-                {
                  "height":58.6666666666667,
                  "id":13,
                  "name":"",
@@ -837,34 +826,6 @@
                  "width":65,
                  "x":703,
                  "y":-1027
-                }, 
-                {
-                 "height":0,
-                 "id":21,
-                 "name":"",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":1,
-                         "y":129.5
-                        }, 
-                        {
-                         "x":65,
-                         "y":129
-                        }, 
-                        {
-                         "x":65.5,
-                         "y":-1
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":-768.5,
-                 "y":-1025
                 }, 
                 {
                  "height":0,
@@ -1061,6 +1022,86 @@
                  "width":0,
                  "x":-325.333333333333,
                  "y":-1024
+                }, 
+                {
+                 "height":0,
+                 "id":28,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":66.5,
+                         "y":63
+                        }, 
+                        {
+                         "x":67.5,
+                         "y":126.5
+                        }, 
+                        {
+                         "x":134,
+                         "y":127
+                        }, 
+                        {
+                         "x":133.5,
+                         "y":61.5
+                        }, 
+                        {
+                         "x":201,
+                         "y":-3
+                        }, 
+                        {
+                         "x":200,
+                         "y":-62
+                        }, 
+                        {
+                         "x":0.5,
+                         "y":-63
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-837,
+                 "y":-1023
+                }, 
+                {
+                 "height":0,
+                 "id":29,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":3.5,
+                         "y":316
+                        }, 
+                        {
+                         "x":68.5,
+                         "y":381
+                        }, 
+                        {
+                         "x":66.5,
+                         "y":445.5
+                        }, 
+                        {
+                         "x":-59.5,
+                         "y":445.5
+                        }, 
+                        {
+                         "x":-59.5,
+                         "y":-3
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-962.5,
+                 "y":-1085.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1193,7 +1234,7 @@
          "y":0
         }],
  "nextlayerid":10,
- "nextobjectid":28,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
